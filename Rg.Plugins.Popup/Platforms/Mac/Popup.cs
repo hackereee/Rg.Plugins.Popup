@@ -1,4 +1,5 @@
-﻿using Rg.Plugins.Popup.MacOS.Impl;
+﻿using System;
+using Rg.Plugins.Popup.MacOS.Impl;
 using Rg.Plugins.Popup.MacOS.Renderers;
 
 namespace Rg.Plugins.Popup
